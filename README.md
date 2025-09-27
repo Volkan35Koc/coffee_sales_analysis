@@ -5,7 +5,7 @@ The objective is to uncover sales trends, evaluate product category performance,
 
 The analysis is designed with a **business-oriented perspective**, supporting data-driven decision making for retail operations.  
 
-## 📊 Project Scope
+## Project Scope
 
 - **Data Preparation & Cleaning**  
   - Merging transaction date and time into a single timestamp  
@@ -23,5 +23,5 @@ The analysis is designed with a **business-oriented perspective**, supporting da
   - Business-friendly dashboards and charts (bar, time series, heatmap)  
   - Export of results to **CSV** and **PNG** for further reporting  
 
-## 📂 Repository Structure
+##  Repository Structure
 See the file `notebooks/coffee_sales_clean.ipynb` for details.
